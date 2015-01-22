@@ -1,0 +1,14 @@
+{
+    "manifest_version": 2,
+
+    "name": "CamCL Course Page Adjuster",
+    "description": "Displays the current term at the top of the list of terms.",
+    "version": "1.0",
+
+    "content_scripts": [
+        {
+            "matches": ["http://www.cl.cam.ac.uk/teaching/*", "https://www.cl.cam.ac.uk/teaching/*"],
+            "js": ["adjuster.js"]
+        }
+    ]
+}
