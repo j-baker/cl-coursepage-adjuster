@@ -17,3 +17,13 @@ extension is trivial - merely clone the repository, navigate to
 enable Developer mode, and open the folder as an extension.
 
 Pull requests appreciated.
+
+Before
+------
+
+![Before](https://jbaker.io/cl-coursepage-adjuster/before.png)
+
+After
+-----
+
+![After](https://jbaker.io/cl-coursepage-adjuster/after.png)
